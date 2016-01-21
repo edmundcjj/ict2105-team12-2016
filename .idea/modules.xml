@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Team12TravisTest.iml" filepath="$PROJECT_DIR$/Team12TravisTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ict2105-lab01-2016.iml" filepath="$PROJECT_DIR$/ict2105-lab01-2016.iml" />
+>>>>>>> fbd16f2d94c7b85916b44d3e7bf6167341806ad4
     </modules>
   </component>
 </project>
